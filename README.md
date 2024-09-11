@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshbabhre2404@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BhC5qabldzVYQwWML7e4efKYSRBUdDbU/view?usp=sharing](https://drive.google.com/file/d/1BhC5qabldzVYQwWML7e4efKYSRBUdDbU/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1Qszu_ynps0UI7UGTASA4czSqiRReghE7/view?usp=sharing)
 
 - ⚡ Fun fact **Did you know that prompt engineering is like being a wizard for AI models? The right prompt can unlock a world of creativity, turning a simple text input into poetry, code, or even a conversation with a virtual character!**
 
